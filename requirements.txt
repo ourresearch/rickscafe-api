@@ -24,4 +24,4 @@ Sickle==0.6.4
 sqlalchemy-redshift==0.7.3
 unicodecsv==0.14.1
 unidecode==0.04.19
-Werkzeug==0.11.2
+Werkzeug==0.15.3
